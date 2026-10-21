@@ -1,0 +1,60 @@
+Last login: Wed Oct 21 12:21:52 on ttys001
+wpp53847@Claras-MacBook-Air ~ % git commit
+fatal: not a git repository (or any of the parent directories): .git
+wpp53847@Claras-MacBook-Air ~ % cd Documents/Training/Assignment5
+wpp53847@Claras-MacBook-Air Assignment5 % git status
+On branch main
+All conflicts fixed but you are still merging.
+  (use "git commit" to conclude merge)
+
+Changes to be committed:
+	new file:   README.md
+
+wpp53847@Claras-MacBook-Air Assignment5 % git commit
+hint: Waiting for your editor to close the file... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please run
+#       git update-ref -d MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Clara Nolan <wpp53847@Claras-MacBook-Air.local>
+#
+# On branch main
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#       new file:   README.md
+adasd
+asdasdasda
+asdaasd
+asd
+asd
+asd
+
+-- INSERT --
